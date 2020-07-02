@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: CipherWeb LLC
-image: /img/header-bg.jpg
+image: /img/ipad_iphone1920.jpg
 heading: Great coffee with a conscience
 subheading: 仕事依頼：WEB・SNS・デジタル資産コンサル
 mainpitch:
