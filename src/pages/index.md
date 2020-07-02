@@ -2,22 +2,17 @@
 templateKey: index-page
 title: CipherWeb LLC
 image: /img/header-bg.jpg
-heading: WORK
+heading: Appfav.net
 subheading: 仕事依頼：WEB・SNS・デジタル資産コンサル
 mainpitch:
   title: Why CipherWeb
   description: |
     CipherWebは、WebやSNSは元よりデジタル資産やメタバースの利用をお勧めします。非中央集権を好み、パブリックなサービスを推奨します。
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+description: Webアプリストア、Web3.0 dapps・lapps、Spatial Web
 intro:
   blurbs:
     - image: /img/myapps_vr1.jpg
-      text: |
-        https://appfav.net
-        @appfav_net
+      text: VRでもAppfavのマイアプリページからよく使うWebアプリに簡単アクセス！
     - image: /img/coffee-gear.png
       text: >
         We offer a small, but carefully curated selection of brewing gear and
