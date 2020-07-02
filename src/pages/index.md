@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: CipherWeb LLC
-image: /img/header-bg.jpg
+image: /img/rectangle_large_type_2_c73cc34e9653c8ca8c468bb7b14b2ad1.jpg
 heading: Appfav.net
 subheading: 仕事依頼：WEB・SNS・デジタル資産コンサル
 mainpitch:
