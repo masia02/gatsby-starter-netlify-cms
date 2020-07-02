@@ -1,16 +1,13 @@
 ---
 templateKey: index-page
 title: CipherWeb LLC
-image: /img/47571323_363598211061351_2876120069467799552_o.png
-heading: Great coffee with a conscience
+image: /img/header-bg.jpg
+heading: WORK
 subheading: 仕事依頼：WEB・SNS・デジタル資産コンサル
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
+  title: Why CipherWeb
+  description: |
+    CipherWebは、WebやSNSは元よりデジタル資産やメタバースの利用をお勧めします。非中央集権を好み、パブリックなサービスを推奨します。
 description: Kaldi is the ultimate spot for coffee lovers who want to learn
   about their java’s origin and support the farmers that grew it. We take coffee
   production, roasting and brewing seriously and we’re glad to pass that
