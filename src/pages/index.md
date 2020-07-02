@@ -14,7 +14,7 @@ description: Kaldi is the ultimate spot for coffee lovers who want to learn
   knowledge to anyone.
 intro:
   blurbs:
-    - image: /img/ipad_iphone1920.jpg
+    - image: /img/myapps_vr1.jpg
       text: |
         https://appfav.net
         @appfav_net
