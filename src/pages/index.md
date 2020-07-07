@@ -12,7 +12,7 @@ description: アートデータをNFT（ノン・ファンジブル・トーク�
 intro:
   blurbs:
     - image: /img/myapps_vr1.jpg
-      text: アートをCryptoArtのNFTにしてmintbaseで販売
+      text: NFT（ノン・ファンジブル・トークン）「絵画」など代替不可なもの
     - image: /img/coffee-gear.png
       text: |
         アートをCryptoArtのNFTにしてOpenSeaで販売
