@@ -2,13 +2,13 @@
 templateKey: index-page
 title: CipherWeb LLC
 image: /img/rectangle_large_type_2_c73cc34e9653c8ca8c468bb7b14b2ad1.jpg
-heading: Appfav.net
+heading: Crypto Art
 subheading: デジタルアート販売代行
 mainpitch:
   title: Why CipherWeb
   description: |
     CipherWebは、WebやSNSは元よりデジタル資産やメタバースの利用をお勧めします。非中央集権を好み、パブリックなサービスを推奨します。
-description: Webアプリストア、Web3.0 dapps・lapps、Spatial Web
+description: アートデータをNFT（ノン・ファンジブル・トークン）で販売代行。mintbase、OpenSeaで販売。CryptoVoxcelsのギャラリーで紹介などで訴求。Tシャツやグッズ販売も。
 intro:
   blurbs:
     - image: /img/myapps_vr1.jpg
