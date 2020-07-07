@@ -8,7 +8,7 @@ mainpitch:
   title: Why CipherWeb
   description: |
     CipherWebは、WebやSNSは元よりデジタル資産やメタバースの利用をお勧めします。非中央集権を好み、パブリックなサービスを推奨します。
-description: アートデータをNFT（ノン・ファンジブル・トークン）で販売代行。mintbase、OpenSeaで販売。CryptoVoxcelsのギャラリーで紹介などで訴求。Tシャツやグッズ販売も。
+description: アートデータをNFT（ノン・ファンジブル・トークン）にして販売代行。mintbase、OpenSeaで販売。CryptoVoxcelsのギャラリーで紹介などで訴求。Tシャツやグッズ販売も。
 intro:
   blurbs:
     - image: /img/myapps_vr1.jpg
