@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: CipherWeb LLC
-image: /img/mgwnfd8tadoh.jpg
+image: /img/mgwnfd8tadoh.png
 heading: Crypto Art（CipherWeb Arts）
 subheading: デジタルアート販売代行
 mainpitch:
