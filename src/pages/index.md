@@ -8,26 +8,23 @@ mainpitch:
   title: Why CipherWeb
   description: |
     CipherWebは、WebやSNSは元よりデジタル資産やメタバースの利用をお勧めします。非中央集権を好み、パブリックなサービスを推奨します。
-description: アートデータをNFT（ノン・ファンジブル・トークン）にして販売代行。mintbase、OpenSeaで販売。CryptoVoxcelsのギャラリーで紹介などで訴求。Tシャツやグッズ販売も。
+description: あなたのアートをNFT（ノン・ファンジブル・トークン）にして販売mintbase、OpenSeaで販売。Web・SNSやメタバースのギャラリーなどでグローバルに訴求します。Tシャツなどグッズ販売も。
 intro:
   blurbs:
     - image: /img/myapps_vr1.jpg
-      text: NFT（ノン・ファンジブル・トークン）「絵画」など代替不可なもの
+      text: NFT（ノン・ファンジブル・トークン）「絵画」「音楽」「動画」など代替不可なもの
     - image: /img/coffee-gear.png
       text: |
-        アートをCryptoArtのNFTにしてOpenSeaで販売
+        Cryptovoxcelsのギャラリー
     - image: /img/tutorials.png
       text: |
         アートをCryptoArtのNFTにしてCryptoVoxcelsのギャラリーに掲載
     - image: /img/meeting-space.png
       text: |
         アートをbaseにてTシャツやグッズ販売も
-  heading: What we offer
+  heading: サイファーウェブ合同会社
   description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone. This is an edit via identity...
+    あなたのアートをNFT（ノン・ファンジブル・トークン）にして販売mintbase、OpenSeaで販売。Web・SNSやメタバースのギャラリーなどでグローバルに訴求します。Tシャツなどグッズ販売も。
 main:
   heading: Great coffee with no compromises
   description: >
