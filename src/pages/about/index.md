@@ -1,19 +1,33 @@
 ---
-templateKey: 'about-page'
+templateKey: about-page
 path: /about
 title: About our values
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### **会社概要**
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+社名　サイファーウェブ合同会社（CipherWeb LLC）\
+代表者　代表社員 高野勝通
+創立年月日	平成30年（2018）10月15日
+資本金	900万円
+事業内容	IT事業
+事業所	本社／新潟市
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+### **沿革**
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+2019年00月　Appfav.net 公開
+
+リンク
+【Twitter】https://twitter.com/cipherwebllc
+
+【instagram】https://www.instagram.com/cipher_web/
+
+【OpenSea】https://opensea.io/accounts/???
+
+【Cryptovoxels】https://www.cryptovoxels.com/play?coords=N@238W,12U,572N
+
+【mintbase】https://mintbase.io/my-market/0x4d38eea6619b4159498b31df9623000f2e6ef25e
+
+【base】https://cipherweb.base.ec/ ※英語・外貨対応
+
+【Cent】https://beta.cent.co/@masia02
