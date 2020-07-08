@@ -14,17 +14,15 @@ title: About our values
 
 ### **沿革**
 
-
 2019年00月　Appfav.net 公開
 
 リンク
-
 
 【Twitter】https://twitter.com/cipherwebllc
 
 【instagram】https://www.instagram.com/cipher_web/
 
-【OpenSea】https://opensea.io/accounts/???
+【OpenSea】<https://opensea.io/category/cipherweb-arts/>
 
 【Cryptovoxels】https://www.cryptovoxels.com/play?coords=N@238W,12U,572N
 
