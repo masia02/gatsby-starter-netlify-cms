@@ -22,7 +22,7 @@ title: About our values
 
 【instagram】https://www.instagram.com/cipher_web/
 
-【OpenSea】<https://opensea.io/category/cipherweb-arts/>
+【OpenSea】https://opensea.io/assets/cipherweb-arts[](https://opensea.io/category/cipherweb-arts/)
 
 【Cryptovoxels】https://www.cryptovoxels.com/play?coords=N@238W,12U,572N
 
